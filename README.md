@@ -29,6 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViDucHung2006&show_icons=true&locale=en&layout=compact" alt="Vi Đức Hùng" /></p>
 
-<br><a href="https://github.com/ViDucHung2006"><img alt="ViDucHung2006 Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=ViDucHung2006&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViDucHung2006&label=Profile%20views&color=0e75b6&style=flat" alt="Vi Đức Hùng" /> </p>
