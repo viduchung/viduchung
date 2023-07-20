@@ -13,7 +13,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-- My website [HungTricker.Xyz](HungTricker.Xyz)
+- My website [ViDucHung.Info](ViDucHung.Info)
 
 <h3 align="left">Contact me:</h3>
 <div> 
