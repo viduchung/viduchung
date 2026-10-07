@@ -74,7 +74,7 @@ Cloud & Deployment
 ## Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viduchung&label=Profile%20Views&color=017e40&style=flat-square" alt="Profile Views">
+  <img src="https://count.getloli.com/get/@viduchung?theme=rule34" alt="Profile Views">
 </p>
 
 <p align="center">
