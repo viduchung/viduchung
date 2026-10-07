@@ -1,29 +1,82 @@
-<p align="center"><img src="https://img.shields.io/badge/Viet Nam - Coder -green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
-   Welcome To My Github
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
-</h3>
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Vi+Duc+Hung;+Hùng+có+con+cu+dài+m2;Hùng+đẹp+try;Thank+You+Everyone+😉)](https://git.io/typing-svg)
- 
+
+<h1 align="center">
+  Hi, I'm Vi Duc Hung
+</h1>
+
+<p align="center">
+  <b>Full Stack Developer</b> · Software Engineering Student · Vietnam
 </p>
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="left">Contact me:</h3>
-<div> 
-  <a href="https://www.facebook.com/wei.de.xiong" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook" target="_blank"></a>
-  <a href="https://www.t.me/weidexiong" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" target="_blank"></a>
+<p align="center">
+  <img src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg" alt="divider">
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viduchung&show_icons=true&locale=en" alt="Vi Đức Hùng" /></p>
+* Full Stack Developer focused on building modern web applications
+* Interested in Backend Development, RESTful APIs and Software Architecture
+* Working with Java, Spring Boot, Node.js and JavaScript
+* Always learning new technologies and improving my development skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viduchung&show_icons=true&locale=en&layout=compact" alt="Vi Đức Hùng" /></p>
+## Connect With Me
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viduchung&label=Profile%20views&color=0e75b6&style=flat" alt="Vi Đức Hùng" /> </p>
+<p align="left">
+  <a href="https://t.me/weidexiong" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Connect-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+## Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="Google Cloud">
+</p>
+
+### Core Skills
+
+```text
+Full Stack Development
+Backend Development
+RESTful API Development
+Java / Spring Boot
+Node.js
+JavaScript
+Python
+Database Design
+Git & GitHub
+Cloud & Deployment
+```
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viduchung&show_icons=true&hide_border=true&theme=transparent&locale=en" alt="Vi Duc Hung GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viduchung&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
+</p>
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=viduchung&label=Profile%20Views&color=017e40&style=flat-square" alt="Profile Views">
+</p>
+
+<p align="center">
+  <i>Building, learning and improving every day.</i>
+</p>
